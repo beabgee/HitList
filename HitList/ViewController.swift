@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  HitList TEST
+//  HitList
 //
 //  Created by Bea Gutierrez on 05/04/2016.
 //  Copyright © 2016 Bea Gutierrez. All rights reserved.
